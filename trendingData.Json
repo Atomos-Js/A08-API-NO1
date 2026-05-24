@@ -1,39 +1,38 @@
 [
   {
-    name: "Sky Islands: Build A Sky Nation",
-    logo: "https://raw.githubusercontent.com/Atomos-Js/A08-API-NO1/refs/heads/main/demo-app%20(2).webp",
-    rating: "5",
-    downloads: "9M"
+    "name": "Sky Islands: Build A Sky Nation",
+    "logo": "https://raw.githubusercontent.com/Atomos-Js/A08-API-NO1/refs/heads/main/demo-app%20(2).webp",
+    "rating": "5",
+    "downloads": "9M"
   },
   {
-    name: "Chatty: Robot Companion",
-    logo: "https://raw.githubusercontent.com/Atomos-Js/A08-API-NO1/refs/heads/main/demo-app%20(1).webp",
-    rating: "4.95",
-    downloads: "7M"
+    "name": "Chatty: Robot Companion",
+    "logo": "https://raw.githubusercontent.com/Atomos-Js/A08-API-NO1/refs/heads/main/demo-app%20(1).webp",
+    "rating": "4.95",
+    "downloads": "7M"
   },
   {
-    name: "CSync: Transfer Data",
-    logo: "https://raw.githubusercontent.com/Atomos-Js/A08-API-NO1/refs/heads/main/demo-app%20(3).webp",
-    rating: "5",
-    downloads: "5M"
+    "name": "CSync: Transfer Data",
+    "logo": "https://raw.githubusercontent.com/Atomos-Js/A08-API-NO1/refs/heads/main/demo-app%20(3).webp",
+    "rating": "5",
+    "downloads": "5M"
   },
   {
-    name: "Tommato.io: Farming Game",
-    logo: "https://raw.githubusercontent.com/Atomos-Js/A08-API-NO1/refs/heads/main/demo-app%20(4).webp",
-    rating: "4.5",
-    downloads: "4M",
+    "name": "Tommato.io: Farming Game",
+    "logo": "https://raw.githubusercontent.com/Atomos-Js/A08-API-NO1/refs/heads/main/demo-app%20(4).webp",
+    "rating": "4.5",
+    "downloads": "4M"
   },
   {
-    name: "Bready: Cooking Companion",
-    logo: "https://raw.githubusercontent.com/Atomos-Js/A08-API-NO1/refs/heads/main/demo-app%20(5).webp",
-    rating: "4.5",
-    downloads: "4M",
+    "name": "Bready: Cooking Companion",
+    "logo": "https://raw.githubusercontent.com/Atomos-Js/A08-API-NO1/refs/heads/main/demo-app%20(5).webp",
+    "rating": "4.5",
+    "downloads": "4M"
   },
   {
-    name: "The Agenda: Daily Planer",
-    logo: "https://raw.githubusercontent.com/Atomos-Js/A08-API-NO1/refs/heads/main/demo-app%20(6).webp",
-    rating: "4.6",
-    downloads: "3M",
+    "name": "The Agenda: Daily Planer",
+    "logo": "https://raw.githubusercontent.com/Atomos-Js/A08-API-NO1/refs/heads/main/demo-app%20(6).webp",
+    "rating": "4.6",
+    "downloads": "3M"
   }
 ]
-
