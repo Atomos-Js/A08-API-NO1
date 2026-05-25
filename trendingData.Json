@@ -39,6 +39,12 @@
     "name": "Sport Analytics",
     "logo": "https://raw.githubusercontent.com/Atomos-Js/A08-API-NO1/refs/heads/main/App-Error.png",
     "rating": "4.5",
-    "downloads": "3.5"
+    "downloads": "3.5M"
+  },
+  {
+    "name": "App 8 Name Here",
+    "logo": "...",
+    "rating": "4.0",
+    "downloads": "2M"
   }
 ]
