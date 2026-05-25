@@ -15,7 +15,7 @@
     "name": "CSync: Transfer Data",
     "logo": "https://raw.githubusercontent.com/Atomos-Js/A08-API-NO1/refs/heads/main/demo-app%20(3).webp",
     "rating": "5",
-    "downloads": "5M"
+    "downloads": "6M"
   },
   {
     "name": "Tommato.io: Farming Game",
@@ -27,12 +27,18 @@
     "name": "Bready: Cooking Companion",
     "logo": "https://raw.githubusercontent.com/Atomos-Js/A08-API-NO1/refs/heads/main/demo-app%20(5).webp",
     "rating": "4.5",
-    "downloads": "4M"
+    "downloads": "4.5M"
   },
   {
     "name": "The Agenda: Daily Planer",
     "logo": "https://raw.githubusercontent.com/Atomos-Js/A08-API-NO1/refs/heads/main/demo-app%20(6).webp",
-    "rating": "4.6",
+    "rating": "4.7",
     "downloads": "3M"
+  },
+  {
+    "name": "Sport Analytics"
+    "logo": "https://raw.githubusercontent.com/Atomos-Js/A08-API-NO1/refs/heads/main/App-Error.png"
+    "rating": "4.5"
+    "downloads": "3.5"
   }
 ]
